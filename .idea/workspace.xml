@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e065c9-6fc1-488a-a3b3-c25012431f65" name="Default" comment="git init.&#10;upload codes.">
+    <list default="true" id="18e065c9-6fc1-488a-a3b3-c25012431f65" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/eyas_web_war.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/eyas_web_war_exploded.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
@@ -76,7 +76,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java" afterPath="$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,9 +94,12 @@
       <file leaf-file-name="TestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="330">
+              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+              <folding>
+                <marker date="1509006789000" expanded="false" signature="1065:1071" ph="&lt;~&gt;" />
+                <marker date="1509006789000" expanded="false" signature="1199:1215" ph="&lt;~&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,6 +181,7 @@
         <option value="$PROJECT_DIR$/eyas-core/src/main/java/com/fbart/research/strategy/message/MessageEntrance.java" />
         <option value="$PROJECT_DIR$/eyas-core/src/main/java/com/fbart/research/strategy/message/MessageServiceImpl.java" />
         <option value="$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1574,7 +1578,7 @@
       <workItem from="1507620277176" duration="363000" />
       <workItem from="1507620707478" duration="22000" />
       <workItem from="1508918964124" duration="2240000" />
-      <workItem from="1509005533214" duration="1223000" />
+      <workItem from="1509005533214" duration="1603000" />
     </task>
     <task id="LOCAL-00001" summary="git init.&#10;upload codes.">
       <created>1509005988000</created>
@@ -1583,7 +1587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509005988000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rm .idea">
+      <created>1509006832551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509006832551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1619,7 +1630,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50962000" />
+    <option name="totallyTimeSpent" value="51342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1392" height="877" extended-state="0" />
@@ -1668,7 +1679,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init.&#10;upload codes." />
-    <option name="LAST_COMMIT_MESSAGE" value="git init.&#10;upload codes." />
+    <MESSAGE value="rm .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1679,14 +1691,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eyas-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/domain/StuEntityMapper.xml" />
     <entry file="file://$PROJECT_DIR$/eyas-web/eyas-web.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2030,11 +2034,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="330">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <marker date="1509006789000" expanded="false" signature="1065:1071" ph="&lt;~&gt;" />
+            <marker date="1509006789000" expanded="false" signature="1199:1215" ph="&lt;~&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
