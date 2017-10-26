@@ -1,0 +1,10 @@
+
+Ž"squid:ClassVariableVisibilityCheck"VMake stuService a static final constant or non-public and provide accessors if needed.(äŒ…Šùÿÿÿÿ8Þ°Ä¼×+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(„™¤„øÿÿÿÿ8žêÖ¼×+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èª´W8¡ûÕ¼×+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ã°Þüÿÿÿÿ8Ý—Ò¼×+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ð¤þôüÿÿÿÿ8žêÖ¼×+

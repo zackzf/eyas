@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eyas-web:war">
+    <output-path>$PROJECT_DIR$/eyas-web/target</output-path>
+    <root id="archive" name="eyas-web.war">
+      <element id="artifact" artifact-name="eyas-web:war exploded" />
+    </root>
+  </artifact>
+</component>
