@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e065c9-6fc1-488a-a3b3-c25012431f65" name="Default" comment="rm .idea">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/eyas_web_war.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/eyas_web_war_exploded.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
@@ -90,41 +89,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
-      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-              <folding>
-                <marker date="1509006789000" expanded="false" signature="1065:1071" ph="&lt;~&gt;" />
-                <marker date="1509006789000" expanded="false" signature="1199:1215" ph="&lt;~&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eyas.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eyas.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1635,7 +1600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509007941688</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="rm .idea">
+      <created>1509008089427</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509008089427</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1671,7 +1643,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51780000" />
+    <option name="totallyTimeSpent" value="52074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1392" height="877" extended-state="0" />
@@ -1772,9 +1744,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init.&#10;upload codes." />
-    <MESSAGE value="rm .idea" />
     <MESSAGE value="u" />
-    <option name="LAST_COMMIT_MESSAGE" value="u" />
+    <MESSAGE value="rm .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2066,18 +2038,18 @@
         <state relative-caret-position="165">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#412#413#0" expanded="false" />
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#533#534#0" expanded="false" />
+            <element signature="e#580#581#0" expanded="false" />
+            <element signature="e#614#615#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#773#774#0" expanded="false" />
+            <element signature="e#814#815#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2111,6 +2083,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eyas.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eyas-web/src/main/java/com/fbart/research/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -2119,22 +2107,6 @@
             <marker date="1509006789000" expanded="false" signature="1065:1071" ph="&lt;~&gt;" />
             <marker date="1509006789000" expanded="false" signature="1199:1215" ph="&lt;~&gt;" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eyas.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

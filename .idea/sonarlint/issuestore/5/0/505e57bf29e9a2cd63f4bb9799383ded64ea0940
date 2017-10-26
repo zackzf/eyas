@@ -1,11 +1,0 @@
-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘¶áŠÚ+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ğªğ8ŒãÄÙ+
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éäó‹8‘¶áŠÚ+
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÔõÅÈ8ë­Ç½Ø+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áî“Äùÿÿÿÿ8ê‡èÅÙ+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.( ÖÄì8ÑÁãŠÚ+
-isquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ç¿18ÑÀÎ½Ø+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡×²»ıÿÿÿÿ8 á¯½Ø+

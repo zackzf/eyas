@@ -1,4 +1,0 @@
-
->squid:S1214""Move constants to a class or enum.(Ä¯8Ï‘†İ+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñø‡¶úÿÿÿÿ8£Öå…İ+
-wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ‰û¬8Ï‘†İ+
