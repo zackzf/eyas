@@ -1,1 +1,2 @@
-com/fbart/research/App.class
+com/fbart/research/core/infrastructure/mapper/StuMapper.class
+com/fbart/research/core/infrastructure/Stu.class

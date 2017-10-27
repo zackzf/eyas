@@ -1,3 +1,5 @@
-com/fbart/research/service/TbStuTest.class
-com/fbart/research/domain/StuEntity.class
-com/fbart/research/dao/StuEntityMapper.class
+com/fbart/research/web/api/TestController.class
+com/fbart/research/web/infrastructure/Book.class
+com/fbart/research/web/infrastructure/mapper/BookMapper.class
+com/fbart/research/util/AjaxResultUtil.class
+com/fbart/research/util/AjaxResultUtil$Error.class
