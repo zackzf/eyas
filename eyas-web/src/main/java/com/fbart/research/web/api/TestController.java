@@ -6,22 +6,37 @@ import com.fbart.research.util.AjaxResultUtil;
 import com.fbart.research.web.infrastructure.Book;
 import com.fbart.research.web.infrastructure.mapper.BookMapper;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.context.support.WebApplicationContextUtils;
+import org.springframework.web.context.support.XmlWebApplicationContext;
 
-import javax.servlet.http.HttpServletResponse;
-import java.math.BigDecimal;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 
 @Controller
 @RequestMapping("/api/test")
 public class TestController {
+    /**
+     * 刷新
+     * @return
+     */
+    @RequestMapping("/refresh")
+    @ResponseBody
+    public Map<String, Object> refresh(HttpServletRequest request) {
+        XmlWebApplicationContext xmlWebApplicationContext = (XmlWebApplicationContext) WebApplicationContextUtils.getWebApplicationContext(request.getServletContext());
+        xmlWebApplicationContext.refresh();
+
+//        BeanDefinitionRegistry reg = new DefaultListableBeanFactory();
+//        XmlBeanDefinitionReader reader = new XmlBeanDefinitionReader(reg);
+//        reader.loadBeanDefinitions(new ClassPathResource("eyas-web-service.xml"));
+        return AjaxResultUtil.success("刷新完成");
+    }
+
+
+
     @Autowired
     private StuMapper stuMapper;
     @Autowired

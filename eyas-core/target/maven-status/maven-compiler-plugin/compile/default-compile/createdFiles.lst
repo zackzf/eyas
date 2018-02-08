@@ -1,2 +1,7 @@
+com/fbart/research/core/MultiThread.class
+com/fbart/research/core/hot/Executor.class
+com/fbart/research/core/hot/Printer.class
 com/fbart/research/core/infrastructure/mapper/StuMapper.class
+com/fbart/research/core/Movie.class
+com/fbart/research/core/hot/HowswapCL.class
 com/fbart/research/core/infrastructure/Stu.class

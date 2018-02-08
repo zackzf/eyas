@@ -12,9 +12,11 @@
 	http://www.springframework.org/schema/aop/spring-aop.xsd
 	http://www.springframework.org/schema/tx
 	http://www.springframework.org/schema/tx/spring-tx.xsd">
-	<context:component-scan base-package="com.fbart.research.web">
-	</context:component-scan>
+	<context:component-scan base-package="com.fbart.research.web"/>
+
+	<aop:aspectj-autoproxy />
 
 	<import resource="classpath:eyas-web-mvc.xml" />
 	<import resource="classpath:eyas-web-mybatis.xml" />
+	<!--<import resource="classpath:eyas-web-service.xml" />-->
 </beans>
