@@ -1,7 +1,0 @@
-com/fbart/research/web/api/TestController.class
-com/fbart/research/web/infrastructure/Book.class
-com/fbart/research/web/infrastructure/mapper/BookMapper.class
-com/fbart/research/util/AjaxResultUtil.class
-com/fbart/research/web/service/Runner.class
-com/fbart/research/web/service/SpringContextUtil.class
-com/fbart/research/util/AjaxResultUtil$Error.class
